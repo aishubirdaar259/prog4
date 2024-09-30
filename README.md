@@ -1,2 +1,4 @@
 # prog4
-welcome
+welcome to the department of AI&ML
+hii 
+hello
